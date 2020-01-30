@@ -1,3 +1,17 @@
+This is a react version of the website for my science class.
+
+Technologies Used:
+* create-react-app
+
+
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
