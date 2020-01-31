@@ -10,17 +10,17 @@ function App() {
         <p>
           Myster E. Science
         </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
           Learn React
-        </a>
       </header>
     </div>
   );
 }
+
+// TODOS
+//delete starter info from create-react-app
+//navbar
+//add current event section
+//add main content
+
 
 export default App;
