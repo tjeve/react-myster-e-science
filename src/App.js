@@ -1,15 +1,20 @@
 import React from 'react';
 import './App.css';
-import './navbar'
+import MystereNav from './navbar';
+import SiteCarousel from './content'
 
 function App() {
   return (
     <div className="App">
+      <MystereNav/>
+      <SiteCarousel/>
       <header className="App-header">
         <p>
           Myster E. Science
         </p>
       </header>
+
+
     </div>
   );
 }
