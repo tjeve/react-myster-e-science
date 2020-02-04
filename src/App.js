@@ -10,7 +10,7 @@ function App() {
       <SiteCarousel/>
       <header className="App-header">
         <p>
-          Myster E. Science
+          Welcome to Myster E's Science Class!
         </p>
       </header>
 
