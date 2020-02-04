@@ -6,14 +6,15 @@ import SiteCarousel from './content'
 function App() {
   return (
     <div className="App">
+      <MystereNav/>
+      <SiteCarousel/>
       <header className="App-header">
-        <MystereNav/>
-        <SiteCarousel/>
         <p>
           Welcome to Myster E's Science Class!
         </p>
       </header>
-
+      <main>
+      </main>
 
     </div>
   );
