@@ -41,7 +41,7 @@ class SiteCarousel extends React.Component {
 
                     <Carousel.Caption>
                     <h3>Category 4: Earth and Space</h3>
-                    <p>Learn about Resources, Organisms, and Biodiversity</p>
+                    <p>Learn about Ecosystems, Organisms, and Biodiversity</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
