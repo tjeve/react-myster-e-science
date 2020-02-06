@@ -1,11 +1,23 @@
 import React from 'react';
 import { Carousel } from "react-bootstrap"
 import { Button } from 'react-bootstrap'
+import './carousel.css'
 
 class SiteCarousel extends React.Component {
     render () {
         return (
             <Carousel>
+                <Carousel.Item>
+                    <Button>
+                        <div class="title">
+                            <h1>Welcome to Myster E's Science Class!</h1>
+                        </div>
+                    </Button>
+                    <Carousel.Caption>
+                    <h3>Navigate to different parts of the page using the menu</h3>
+                    <p>Learn something new today.</p>
+                    </Carousel.Caption>
+                </Carousel.Item>
                 <Carousel.Item>
                     <Button>
                         <iframe src="https://giphy.com/embed/Z8k6qo0AVIsPdROQNd" title="carbon" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>

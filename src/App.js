@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import MystereNav from './navbar';
-import SiteCarousel from './content'
+import SiteCarousel from './carousel'
 
 function App() {
   return (
