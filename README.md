@@ -1,5 +1,9 @@
 This is a react version of the website for my science class.
 
+
+Additions:
+* Add a section for science games, resources, simulations and links
+
 Technologies Used:
 * create-react-app
 
