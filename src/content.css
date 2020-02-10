@@ -1,0 +1,17 @@
+.content {
+    display: flex;
+}
+
+.menu {
+    color: white;
+    background-color: #343a40;
+    display: flex;
+    flex-direction: flex-start;
+    flex: 1;
+}
+
+.main-content {
+    display: flex;
+    flex-direction: flex-start;
+    flex: 2;
+}
