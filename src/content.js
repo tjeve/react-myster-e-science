@@ -5,7 +5,11 @@ import './content.css'
 class Menu extends React.Component {
     render() {
       return (
-        <div class='main-content'>Main Content will Go Here!</div>
+        <div class='main-content'>Choose a Category!</div>
+        <div>Matter and Energy</div>
+        <div>Force and Motion</div>
+        <div>Earth and Space</div>
+        <div>Organisms and Environments</div>
       )
     }
   }
