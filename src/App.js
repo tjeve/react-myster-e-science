@@ -12,11 +12,11 @@ function App() {
       <SiteCarousel/>
       <Menu/>
       <header className="App-header">
+      </header>
+      <main>
         <p>
           Welcome to Myster E's Science Class!
         </p>
-      </header>
-      <main>
       </main>
 
     </div>
