@@ -23,11 +23,5 @@ function App() {
   );
 }
 
-// TODOS
-//delete starter info from create-react-app
-//navbar
-//add current event section
-//add main content
-
 
 export default App;
