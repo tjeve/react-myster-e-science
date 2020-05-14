@@ -15,7 +15,7 @@ function App() {
       </header>
       <main>
         <p>
-          Welcome to Myster E's Science Class!
+          Welcome to Myster E's Science and Technology Class!
         </p>
       </main>
 
